@@ -4,7 +4,6 @@ import bisect
 import collections
 import copy
 import datetime
-import functools
 import itertools
 import math
 import numbers
